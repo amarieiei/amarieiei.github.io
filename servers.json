@@ -58,4 +58,8 @@
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
+},
+{
+    "name": "[amarieiei's server]",
+    "address": "[https://anisette-v3-server-1bl2.onrender.com/]"
 }
