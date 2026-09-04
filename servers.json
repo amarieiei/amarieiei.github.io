@@ -1,4 +1,8 @@
-json
-[
- "https://anisette-v3-server-1bl2.onrender.com/"
-]
+{
+    "servers": [
+        {
+            "name": "[Amarieiei]",
+            "address": "[https://anisette-v3-server-1bl2.onrender.com]"
+        }
+    ]
+}
