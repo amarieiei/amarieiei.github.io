@@ -1,11 +1,8 @@
-FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true
 {
-  "servers": [
-    {
-      "name": "SideStore",
-      "address": "https://ani.sidestore.io"
-    },
-{
-    "name": "[amarieiei's server]",
-    "address": "[https://anisette-v3-server-1bl2.onrender.com/]"
+    "servers": [
+        {
+            "name": "[amariei]",
+            "address": "[https://anisette-v3-server-1bl2.onrender.com/]"
+        }
+    ]
 }
